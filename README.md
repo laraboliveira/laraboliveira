@@ -1,21 +1,93 @@
-<h1 align="center">Oi 👋, eu sou Lara Borges</h1>
-<h3 align="center">Estudante de Engenharia de Controle e Automação</h3>
+# 👩🏻‍💻 Lara Borges
+**`Estudante de Engenharia de Controle e Automação`**
 
-- 🌱 Atualmente estou aprendendo **Python, Machine Learning e IA generativa**
+Sou estudante de Engenharia de Controle e Automação na UFOP, com formação técnica em Automação Industrial pelo IFMG. Minha trajetória combina experiência acadêmica, pesquisa científica, tutoria, monitoria e projetos de extensão, sempre voltados para inovação tecnológica e desenvolvimento de soluções práticas.
 
-- 📫 Você pode falar comigo através do email **borgeslara3@gmail.com**
+Atuei em iniciação científica com foco em modelos psicométricos, aprendizagem adaptativa e uso de IA generativa (LLMs, Google Gemini, ChatGPT) no ensino de Matemática. Nessas atividades, desenvolvi competências em análise de dados, criação de atividades pedagógicas, experimentos com inteligência artificial e programação.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/laraborgesoli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/laraborgesoli" height="30" width="40" /></a>
-<a href="https://discord.gg/larita6805" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="larita6805" height="30" width="40" /></a>
+Como tutora e monitora em Programação de Computadores, aperfeiçoei minhas habilidades de comunicação, organização e didática, além de aplicar ferramentas como Excel para otimizar processos acadêmicos. Também participei de projetos de robótica como gestora de projetos, fortalecendo minha visão prática de automação e gestão.
+
+Tenho interesse em automação, robótica, inteligência artificial e desenvolvimento tecnológico, buscando oportunidades de estágio e colaboração em projetos que me permitam crescer profissionalmente e contribuir para soluções inovadoras.
+
+Atualmente, busco oportunidades de estágio e experiências práticas que me permitam crescer profissionalmente e contribuir com equipes multidisciplinares.
+
+---
+
+### 🤖 Linguagens e Tecnologias
+
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="PHP" 
+    title="PHP"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+
+<br/>
+<br/>
+
+### 📊 Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=laraboliveira&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=laraboliveira&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=laraboliveira&show_icons=true&locale=en&layout=compact" alt="laraboliveira" /></p>
-
 
 <!--
 **laraboliveira/laraboliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

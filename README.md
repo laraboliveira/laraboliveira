@@ -1,15 +1,13 @@
 # 👩🏻‍💻 Lara Borges
 **`Estudante de Engenharia de Controle e Automação`**
 
-Sou estudante de Engenharia de Controle e Automação na UFOP, com formação técnica em Automação Industrial pelo IFMG. Minha trajetória combina experiência acadêmica, pesquisa científica, tutoria, monitoria e projetos de extensão, sempre voltados para inovação tecnológica e desenvolvimento de soluções práticas.
+Sou estudante de Engenharia na UFOP, com formação técnica em Automação Industrial pelo IFMG. Minha trajetória combina experiência acadêmica, pesquisa científica, tutoria, monitoria e projetos de extensão, sempre voltados para inovação tecnológica e desenvolvimento de soluções práticas.
 
-Atuei em iniciação científica com foco em modelos psicométricos, aprendizagem adaptativa e uso de IA generativa (LLMs, Google Gemini, ChatGPT) no ensino de Matemática. Nessas atividades, desenvolvi competências em análise de dados, criação de atividades pedagógicas, experimentos com inteligência artificial e programação.
+Durante minhas atividades desenvolvi competências em análise de dados, criação de atividades pedagógicas, experimentos com inteligência artificial e programação.
 
-Como tutora e monitora em Programação de Computadores, aperfeiçoei minhas habilidades de comunicação, organização e didática, além de aplicar ferramentas como Excel para otimizar processos acadêmicos. Também participei de projetos de robótica como gestora de projetos, fortalecendo minha visão prática de automação e gestão.
+Tenho interesse em automação, robótica, inteligência artificial e desenvolvimento tecnológico, buscando colaboração em projetos que me permitam crescer profissionalmente e contribuir para soluções inovadoras.
 
-Tenho interesse em automação, robótica, inteligência artificial e desenvolvimento tecnológico, buscando oportunidades de estágio e colaboração em projetos que me permitam crescer profissionalmente e contribuir para soluções inovadoras.
-
-Atualmente, busco oportunidades de estágio e experiências práticas que me permitam crescer profissionalmente e contribuir com equipes multidisciplinares.
+Atualmente, busco experiências práticas que me permitam crescer profissionalmente e contribuir com equipes.
 
 ---
 
